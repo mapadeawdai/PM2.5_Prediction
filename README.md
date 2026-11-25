@@ -1,0 +1,21 @@
+# 2147334 ML&DL Project: PM2.5 Prediction
+
+## Goal and Progress
+| Goal  | Progress |
+| ------------- |:-------------:|
+| Get raw data from the internet with some data processing | Obtained the data from openAQ and open-meteo and merged |
+| Random Forest| Implemented and tuned |
+| MLP| Have not implemented |
+| LSTM| Have not implemented |
+
+## Current experiment leaderboard
+| Model  | VAL MAE | VAL RMSE | VAL R² |
+| ------------- | ------------- | ------------- |:-------------:|
+| Persistence | 4.3737 | 6.2416 | 0.8117 |
+| Default RF | 4.5794 | 6.6754 | 0.7846 |
+| Depth-tuned RF | 4.5157 | 6.5262 | 0.7941 |
+| Fully tuned RF | 4.4756 | 6.4100 | 0.8014 |
+| Residual RF | Pending | Pending | Pending |
+| MLP | Pending | Pending | Pending |
+| LSTM | Pending | Pending | Pending |
+
