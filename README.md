@@ -15,7 +15,7 @@
 | Default RF | 4.5794 | 6.6754 | 0.7846 |
 | Depth-tuned RF | 4.5157 | 6.5262 | 0.7941 |
 | Fully tuned RF | 4.4756 | 6.4100 | 0.8014 |
-| Residual RF | Pending | Pending | Pending |
+| Residual RF | 3.9440 | 5.5539 | 0.8509 |
 | MLP | Pending | Pending | Pending |
 | LSTM | Pending | Pending | Pending |
 
